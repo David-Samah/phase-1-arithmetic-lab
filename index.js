@@ -8,4 +8,4 @@ const num3 = 34;
 const num4 = 5;
 const mod = num3 % num4;
 
-const max = Math.max(1, 5, 10, 20, 15);
+const max = Math.max(1, 5, 10, 20, 15)
